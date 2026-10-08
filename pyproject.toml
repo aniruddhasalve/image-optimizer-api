@@ -1,0 +1,9 @@
+[project]
+name = "image-optimizer-api"
+version = "0.1.0"
+description = "Image optimizer REST API"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
